@@ -1,4 +1,4 @@
-# Android Currency Detector App using TensorFlow Lite image classification
+# Android disciple montioring App using TensorFlow Lite image classification(dress code detection)
 
 ## Overview
 
@@ -95,6 +95,4 @@ the app the first time, the app will request permission to access the camera.
 Re-installing the app may require you to uninstall the previous installations.
 
 ## Assets folder
-_Do not delete the assets folder content_. If you explicitly deleted the
-files, choose `Build -> Rebuild` to re-download the deleted model files into the
-assets folder.
+You can create your own model by uploading a data to a teachable machince site ,train the model and download the quant & float type of model .Upload  the model to the above program .
