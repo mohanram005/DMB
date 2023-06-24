@@ -1,4 +1,4 @@
-# Android disciple montioring App using TensorFlow Lite image classification(dress code detection)
+# Android discipline montioring App using TensorFlow Lite image classification(dress code detection)
 
 ## Overview
 
