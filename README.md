@@ -52,7 +52,7 @@ Open the TensorFlow source code in Android Studio. To do this, open Android
 Studio and select `Open an existing project`, setting the folder to
 `examples/lite/examples/image_classification/android`
 
-<img src="images/classifydemo_img1.png?raw=true" />
+<img src="[images/classifydemo_img1.png?raw=true](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techspot.com%2Fnews%2F99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html&psig=AOvVaw0f_AvK_9TBMxlxHOoex6cJ&ust=1700118692320000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCDx-i5xYIDFQAAAAAdAAAAABAE)" >
 
 ### Step 2. Build the Android Studio project
 
@@ -64,9 +64,6 @@ libraries.
 The file `download.gradle` directs gradle to download the two models used in the
 example, placing them into `assets`.
 
-<img src="images/classifydemo_img4.png?raw=true" style="width: 40%" />
-
-<img src="images/classifydemo_img2.png?raw=true" style="width: 60%" />
 
 <aside class="note"><b>Note:</b><p>`build.gradle` is configured to use
 TensorFlow Lite's nightly build.</p><p>If you see a build error related to
@@ -82,13 +79,8 @@ permission prompts that appear on your phone. Select `Run -> Run app.` Select
 the deployment target in the connected devices to the device on which the app
 will be installed. This will install the app on the device.
 
-<img src="images/classifydemo_img5.png?raw=true" style="width: 60%" />
+<img src="i[mages/classifydemo_img5.png?raw=true](https://www.google.com/imgres?imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15658638%3Fs%3D280%26v%3D4&tbnid=Dbpe6JDZtp10FM&vet=12ahUKEwir24GPusWCAxXwbmwGHZNRCh0QMygCegQIARBy..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftensorflow&docid=-hIlMgMf8iovFM&w=280&h=280&q=tensorflow&hl=en&ved=2ahUKEwir24GPusWCAxXwbmwGHZNRCh0QMygCegQIARBy)" style="width: 60%" />
 
-<img src="images/classifydemo_img6.png?raw=true" style="width: 70%" />
-
-<img src="images/classifydemo_img7.png?raw=true" style="width: 40%" />
-
-<img src="images/classifydemo_img8.png?raw=true" style="width: 80%" />
 
 To test the app, open the app called `TFL Classify` on your device. When you run
 the app the first time, the app will request permission to access the camera.
